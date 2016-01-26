@@ -1,0 +1,22 @@
+C:\Users\DonAmin\Desktop\PRL\PRL\bin\Release\PRL.exe.config
+C:\Users\DonAmin\Desktop\PRL\PRL\bin\Release\PRL.exe
+C:\Users\DonAmin\Desktop\PRL\PRL\bin\Release\PRL.pdb
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Release\PRL.csprojResolveAssemblyReference.cache
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Release\PRL.Form1.resources
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Release\PRL.Properties.Resources.resources
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Release\PRL.csproj.GenerateResource.Cache
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Release\PRL.exe
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Release\PRL.pdb
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\bin\Release\PRL.exe.config
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\bin\Release\PRL.exe
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\bin\Release\PRL.pdb
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Release\PRL.Form1.resources
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Release\PRL.Properties.Resources.resources
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Release\PRL.csproj.GenerateResource.Cache
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Release\PRL.exe
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Release\PRL.pdb
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Release\PRL.csprojResolveAssemblyReference.cache
+D:\Vital\Isfahan University of Technology\Thesis\Codes\TD\PRL\bin\Release\PRL.exe.config
+D:\Vital\Isfahan University of Technology\Thesis\Codes\TD\PRL\obj\Release\PRL.exe
+D:\Vital\Isfahan University of Technology\Thesis\Codes\TD\PRL\obj\Release\PRL.pdb
+D:\Vital\Isfahan University of Technology\Thesis\Codes\TD\PRL\bin\Release\TD.exe.config

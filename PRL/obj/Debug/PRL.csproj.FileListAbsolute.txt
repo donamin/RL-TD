@@ -1,0 +1,18 @@
+C:\Users\DonAmin\Desktop\PRL\PRL\bin\Debug\PRL.exe.config
+C:\Users\DonAmin\Desktop\PRL\PRL\bin\Debug\PRL.exe
+C:\Users\DonAmin\Desktop\PRL\PRL\bin\Debug\PRL.pdb
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Debug\PRL.Form1.resources
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Debug\PRL.Properties.Resources.resources
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Debug\PRL.csproj.GenerateResource.Cache
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Debug\PRL.exe
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Debug\PRL.pdb
+C:\Users\DonAmin\Desktop\PRL\PRL\obj\Debug\PRL.csprojResolveAssemblyReference.cache
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\bin\Debug\PRL.exe.config
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Debug\PRL.exe
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Debug\PRL.pdb
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\bin\Debug\PRL.exe
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\bin\Debug\PRL.pdb
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Debug\PRL.csprojResolveAssemblyReference.cache
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Debug\PRL.Form1.resources
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Debug\PRL.Properties.Resources.resources
+D:\Vital\Isfahan University of Technology\Thesis\Codes\PRL\PRL\obj\Debug\PRL.csproj.GenerateResource.Cache
