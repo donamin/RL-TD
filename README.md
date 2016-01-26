@@ -50,7 +50,7 @@ If you don't want to edit the code, you can jump directly to running the executa
 
 ### Note
 There may be some bugs in the project. But I did my best to remove all of them.
-If you find any bugs, please if you let me know.
+If you find any bugs, please let me know. Thanks :)
 
 ### Contact info
 Feel free to contact me if have any comments/questions via Amin.Babadi@yahoo.com
