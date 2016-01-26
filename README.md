@@ -4,8 +4,8 @@ Feel free to use this project for non-commercial purposes only.
 
 ## Environment setting
 The environment is highly inspired by the Cliff Walking example from Sutton's Reinforcement Learning textbook.
-
 We have a 5x10 grid-based environment like this:
+
 ---------------------
 |S|C|C|C|C|C|C|C|C|G|
 ---------------------
