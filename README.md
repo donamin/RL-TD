@@ -6,20 +6,16 @@ Feel free to use this project for non-commercial purposes only.
 The environment is highly inspired by the Cliff Walking example from Sutton's Reinforcement Learning textbook.
 We have a 5x10 grid-based environment like this:
 
----------------------
-|S|C|C|C|C|C|C|C|C|G|
----------------------
-| | | | | | | | | | |
----------------------
-| | | | | | | | | | |
----------------------
-| | | | | | | | | | |
----------------------
-| | | | | | | | | | |
----------------------
+| S | C | C | C | C | C | C | C | C | G |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| # | # | # | # | # | # | # | # | # | # |
+| # | # | # | # | # | # | # | # | # | # |
+| # | # | # | # | # | # | # | # | # | # |
+| # | # | # | # | # | # | # | # | # | # |
 
 S and G are the start and goal state, respectively.
 C denotes a cliff.
+Other squares (#) are where the agent can freely walk.
 There are 4 possible deterministic actions: top, right, down, and left.
 Each action causes the agent to move in the corresponding direction by 1 unit.
 If an action causes the agent to exit the grid, it has no effect and the agent remains in its location.
