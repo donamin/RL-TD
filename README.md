@@ -14,6 +14,8 @@ We have a 5x10 grid-based environment like this:
 | # | # | # | # | # | # | # | # | # | # |
 
 S and G are the start and goal state, respectively.
+
+
 C denotes a cliff.
 Other squares (#) are where the agent can freely walk.
 There are 4 possible deterministic actions: top, right, down, and left.
