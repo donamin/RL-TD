@@ -1,6 +1,4 @@
-# RL-TD
-
-# Temporal Difference for Reinforcement Learning
+# Open-Source Temporal Difference Implementation for Reinforcement Learning
 This is a C# source code for temporal difference reinforcement learning.
 Feel free to use this project for non-commercial purposes only.
 
