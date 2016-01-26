@@ -2,6 +2,8 @@
 This is a C# source code for temporal difference reinforcement learning.
 Feel free to use this project for non-commercial purposes only.
 
+<a href="http://tinypic.com?ref=j0k903" target="_blank"><img src="http://i66.tinypic.com/j0k903.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
 ### Environment setting
 The environment is highly inspired by the Cliff Walking example from Sutton's Reinforcement Learning textbook.
 We have a 5x10 grid-based environment like this:
